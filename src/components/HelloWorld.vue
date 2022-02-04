@@ -8,8 +8,11 @@
   export default {
     name: 'HelloWorld',
 
-    data: () => ({
-      
-    }),
+    data(){
+      return {
+
+      }
+    },
   }
 </script>
+
