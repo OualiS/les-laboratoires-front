@@ -114,14 +114,18 @@ export default {
   }),
 }
 
-    data: () => ({
-      
-    }),
+    data(){
+      return {
+
+      }
+    },
   }
 </script>
+
 
 <style>
 body {
   background-color: orange;
 }
 </style>
+
