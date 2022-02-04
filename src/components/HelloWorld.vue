@@ -6,7 +6,12 @@
 export default {
   data () {
     return {
-      
+
+    }
+  },
+  methods : {
+    test(){
+      console.log("test")
     }
   }
 }
